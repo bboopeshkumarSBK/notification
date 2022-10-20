@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "firebase_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase": "^9.9.3",
+    "firebase-admin": "^11.1.0",
+    "firebase-tools": "^11.8.0",
+    "node-fetch": "^3.2.10"
+  }
+}
